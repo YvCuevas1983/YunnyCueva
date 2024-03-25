@@ -20,3 +20,4 @@ informacion_personal.pop("edad", None)
 
 # Imprimir el diccionario final
 print(informacion_personal)
+
