@@ -13,4 +13,4 @@ with open("my_notes.txt", "r") as file:
         print(line.strip())
 
 # Cierre de Archivos:
-file.close()
+file.close() 
